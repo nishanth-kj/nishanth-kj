@@ -19,8 +19,16 @@ Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
 <h6><> Wake · Learn · Build · Program · Code · Eat · Sleep · Repeat <></h1>
 
 ---
-  
-### 🌐 Contact
+
+### 👨‍💻 About Me
+- 🚀 Software Engineer specialized in Full-Stack Development and AI/ML  
+- 🌱 Exploring LLM integration, vector databases, cloud deployment, and **Web3 with Rust**  
+- 🧠 Focused on clean architecture and performance optimization  
+- 🏆 Hackathon participant and open-source contributor  
+
+---
+
+### 🌐 Contact Me
 
 
 <p align="left">
@@ -46,19 +54,6 @@ Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=FF007F" alt="Portfolio" />
   </a>
 </p>
-
-
-
-
----
-
-### 👨‍💻 About Me
-- 🚀 Software Engineer specialized in Full-Stack Development and AI/ML  
-- 🌱 Exploring LLM integration, vector databases, cloud deployment, and **Web3 with Rust**  
-- 🧠 Focused on clean architecture and performance optimization  
-- 🏆 Hackathon participant and open-source contributor  
-
----
 
 ### ⚙️ Tech Stack
 <p align="center">
