@@ -16,7 +16,7 @@
 <h3>
 Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
 </h3>
-<h6><> Wake · Learn · Build · Program · Code · Eat · Sleep · Repeat <></h1>
+<h6><> Wake · Learn · Build · Program · Code · Enjoy · Eat · Sleep · Repeat <></h1>
 
 ---
 
