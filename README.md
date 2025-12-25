@@ -34,7 +34,7 @@ Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
 <p align="left">
   <img src="https://media.tenor.com/lUlR2KJRoKYAAAAM/itachi-sharingan.gif" alt="Itachi Sharingan" width="80" height="30" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=nishanthkj&label=Profile%20views&color=ff4d4d&style=for-the-badge" alt="Profile views" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=nishanth-kj&label=Profile%20views&color=ff4d4d&style=for-the-badge" alt="Profile views" height="28" />
 </p>
 
 <p align="left">
@@ -64,8 +64,8 @@ Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthkj&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthkj&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth-kj&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanth-kj&show_icons=true&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthkj&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
@@ -73,7 +73,7 @@ Software Engineer · Full-Stack Engineer · AI/ML <!-- · Web3 (Rust) -->
 
 ### 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanthkj&theme=radical&bg_color=0D1117&color=FF61DA&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanth-kj&theme=radical&bg_color=0D1117&color=FF61DA&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
