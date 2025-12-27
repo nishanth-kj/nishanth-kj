@@ -14,7 +14,7 @@
 
 </div>
 <h3>
-Software Engineer · Full-Stack Engineer · AI/ML  · Web3 
+Software Engineer · Full-Stack Engineer · AI/ML  <!--· Web3 -->
 </h3>
 <h6><> Wake · Learn · Build · Program · Code · Enjoy · Eat · Sleep · Repeat <></h1>
 
