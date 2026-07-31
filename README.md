@@ -57,7 +57,7 @@ Software Engineer · Full-Stack Engineer · AI/ML  <!--· Web3 -->
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,angular,typescript,javascript,html,css,tailwind,nodejs,express,java,spring,rust,mysql,postgres,mongodb,docker,arch,git,github,vercel,vite,figma,postman,tensorflow,pytorch,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,angular,typescript,javascript,html,css,tailwind,nodejs,express,java,spring,rust,mysql,postgres,mongodb,docker,arch,git,github,vercel,vite,figma,postman,tensorflow,pytorch,scikitlearn,cpp" />
 </p>
 
 ---
