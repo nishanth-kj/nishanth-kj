@@ -46,11 +46,11 @@ Software Engineer · Full-Stack Engineer · AI/ML  <!--· Web3 -->
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@nishanthkj" target="_blank" rel="noopener">
+  <a href="https://www.youtube.com/@nishanth-kj" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;
-  <a href="https://nishanthkj.xyz" target="_blank" rel="noopener">
+  <a href="https://nishanth-kj.xyz" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=FF007F" alt="Portfolio" />
   </a>
 </p>
